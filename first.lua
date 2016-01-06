@@ -1,3 +1,4 @@
+print("lyx")
 print("Hello World")
 print(b) --nil
 b=10     --全局变量
